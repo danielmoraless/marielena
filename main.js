@@ -3,7 +3,7 @@ import textos from './textos.json'
 
 var boton = document.getElementById("boton");
 
-var cafune = new Audio("/1.mp3");
+var cafune = new Audio("/marielena/1.mp3");
 
 const typed = new Typed("#for-typed", {
   strings: textos.textos,
